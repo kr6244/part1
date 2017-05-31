@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#he hi how are yoU
 import  os,commands
 
 l=[]
